@@ -47,3 +47,7 @@ You will be asked to add the marketplace (answer `y`), to pick a scope, and to s
 ## License
 
 MIT, see [LICENSE](LICENSE).
+
+## About the author
+
+Made by [UXmanual](https://github.com/UXmanual). I also build Peaker, a hiking app for Korea: https://peaker.kr
