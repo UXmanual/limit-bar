@@ -1,0 +1,6 @@
+{
+  "name": "limit-bar",
+  "owner": { "name": "UXmanual" },
+  "metadata": { "description": "A one-row bar above the Claude Code prompt that shows only the 5-hour and 7-day usage limits." },
+  "plugins": [{ "name": "limit-bar", "source": "./" }]
+}

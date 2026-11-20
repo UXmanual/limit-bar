@@ -1,0 +1,17 @@
+{
+  "name": "limit-bar",
+  "version": "0.1.0",
+  "description": "Shows only the 5-hour and 7-day usage limits (percent used and time until reset) in one row above the prompt, with a color that shifts from green to red as usage grows.",
+  "author": { "name": "UXmanual" },
+  "license": "MIT",
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "language": {
+      "type": "string",
+      "title": "Language",
+      "description": "auto follows the device language (Korean on a Korean device, English otherwise). Or pick en / ko. The KO / EN button on the bar switches it at any time.",
+      "default": "auto",
+      "options": ["auto", "en", "ko"]
+    }
+  }
+}
