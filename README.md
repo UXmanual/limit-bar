@@ -6,6 +6,12 @@ A tiny mod for Claude Code that shows **only your 5-hour and 7-day usage limits*
 5h ████░░░░ 52% · 4h 13m left  │  7d ██░░░░░░ 24% · 5d 6h left                    EN
 ```
 
+## Screenshots
+
+| English | 한국어 |
+|---|---|
+| ![limit-bar in English](docs/limit-bar-en.png) | ![limit-bar in Korean](docs/limit-bar-ko.png) |
+
 ## Features
 
 - **Gauge color follows usage.** The filled cells shift smoothly from green to yellow, orange and red as usage grows, so you can read it at a glance.
